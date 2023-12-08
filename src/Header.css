@@ -1,0 +1,12 @@
+.header{
+  display: flex;
+  justify-content: center;
+  align-items: center !important;
+  background-image: url(https://www.dropbox.com/s/fuadz3vmw2nsylm/bg.png?raw=1);
+  background-position: 20px;
+  }
+  
+  .header-heading{
+    align-items: center !important;
+    color: whitesmoke;
+  }
