@@ -27,6 +27,7 @@ const ProductPage = ({product}) => {
       <h2 className='product_name'>{product.name}</h2>
       <p className='product_description'>{product.description}</p>
       <p className='product_price'>Price: Rs.{product.price}</p>
+      <p onClick={()=>navigate(`/product/${product.id}`)} className='product_showDeatils'>click on card to show more details</p>
      
       </div>
       </div>

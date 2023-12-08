@@ -10,6 +10,11 @@
   justify-content: start;
  
 }
+.product_showDeatils{
+  margin-right: -350px;
+  font-size: 15px;
+  color: rgb(0, 208, 255);
+}
 .product_main_cont{
   display: flex;
   background: #37383b no-repeat;
