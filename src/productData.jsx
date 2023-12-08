@@ -1,7 +1,7 @@
 export const productsData = [
     {
       id: 1,
-      name: 'stylish wear',
+      name: 'Stylish wear',
       description: 'If you’re looking for starter Oxford shoes, these by Metro will surely serve you well. They’ve got a classic appearance with central lace-ups, low heels and round toes which makes them great for nearly any casual occasion. Crafted with upper, lining and insole in leather and rubber outsole, they’re beautifully made and are equally comfortable.',
       details: 'This super versatile, daily go-to” can be dressed up with casual daytime outfits such as walking, running or traveling.',
       image:'https://www.dropbox.com/s/e928cht0h5crcn4/shoe.png?raw=1',
@@ -31,7 +31,7 @@ export const productsData = [
     },
     {
       id: 4,
-      name: 'ethinic wear',
+      name: 'Ethinic wear',
       description: 'One way to flaunt your sophistication is through a pair of patent synthetic Oxford boots from Metro. This pair features the traditional Oxford lace-up construction, as well as comfortable lining and insoles, and is finished with a sleek almond toe shape and low heels. ',
       price: 450,
       details: 'A nice watch and a beautiful crisp white shirt paired with matching trousers is essential to get with these formal shoes or they are tough enough to be worn under a trucker jacket and jeans for office events or casual outings.',
@@ -51,9 +51,9 @@ export const productsData = [
     },
     {
       id: 6,
-      name: 'shoes 1',
+      name: 'Iconic shoes',
       description: 'These formal shoes can be extremely versatile. Whether in jeans or a sharp three-piece suit, they gel right in and offer original visual interest. The superior quality footbed will deliver the necessary all-day comfort whether you are wearing these black formal shoes to work or for a weekend with family or friends.',
-      price: 20,
+      price: 150,
       details: 'A good blazer will work great with a simple sweatshirt or tee underneath and some easy-to-match pleated trousers or jeans below for special events and office functions.',
       image:'https://www.freepnglogos.com/uploads/shoes-png/shoes-shoe-png-transparent-shoe-images-pluspng-37.png',
       color:['red','white','black'],
